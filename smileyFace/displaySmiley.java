@@ -1,4 +1,4 @@
-package smiley;
+
 import javax.swing.JFrame;
 
 public class displaySmiley {
