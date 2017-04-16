@@ -21,13 +21,14 @@ this(h, 0, 0);
 
 public Time2(int h, int m)
 {
-this(h, m, 0);
+SetTime(h,m,0);
 
 }
 
 public Time2(int h, int m, int s)
 {
-setTime(h, m, s);
+hour = h;
+minute =
 
 }
 
