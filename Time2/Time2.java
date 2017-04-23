@@ -28,7 +28,8 @@ SetTime(h,m,0);
 public Time2(int h, int m, int s)
 {
 hour = h;
-minute =
+minute = m;
+second = s;
 
 }
 
